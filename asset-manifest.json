@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tutor-helper/static/css/main.f855e6bc.css",
+    "main.js": "/tutor-helper/static/js/main.58e909d1.js",
+    "static/js/453.8445e174.chunk.js": "/tutor-helper/static/js/453.8445e174.chunk.js",
+    "static/media/logo.svg": "/tutor-helper/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tutor-helper/index.html",
+    "main.f855e6bc.css.map": "/tutor-helper/static/css/main.f855e6bc.css.map",
+    "main.58e909d1.js.map": "/tutor-helper/static/js/main.58e909d1.js.map",
+    "453.8445e174.chunk.js.map": "/tutor-helper/static/js/453.8445e174.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.58e909d1.js"
+  ]
+}
